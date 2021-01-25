@@ -11,3 +11,7 @@ spring:
     username: postgres
     password: postgres
 
+bot:
+  name: Trvl_2021_bot
+  token: 1584892841:AAGHaKYWkzuZuRP0NeswiMh_EPTZpY4F91M
+
